@@ -12,4 +12,6 @@ A responsive web-based Quiz App developed using HTML, CSS, and JavaScript. It pr
 ![image](https://github.com/user-attachments/assets/25a83542-4461-4a80-a7f1-4063d80085f7)
 ![image](https://github.com/user-attachments/assets/b1093d6a-1851-46ba-a3c6-434b1f0ce7ec)
 
+# Author
+Dhruva Kawli 
 
